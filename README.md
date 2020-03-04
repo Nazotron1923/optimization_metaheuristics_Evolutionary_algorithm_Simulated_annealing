@@ -12,7 +12,7 @@ python snp.py -n NUMBER_OF_SENSORS -m genetic -gs SIZE_OF_GENERATION --n_run #_r
 ```
 
 ---
-# ERT
+# ERT-ECDF Expected Runtime Empirical Cumulative Distribution Function
 
 Pour tracer **ERT**, utilisez la commande suivante:
 ```
