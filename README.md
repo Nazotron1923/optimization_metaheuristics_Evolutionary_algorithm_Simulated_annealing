@@ -1,6 +1,7 @@
 # Kaminskyi Nazar-Mykola:
 # IA308 — Stochastic Heuristics Optimization
 
+## Problème: le placement de N capteurs qui couvrent la plus grande surface.
 
 # Génétique
 
